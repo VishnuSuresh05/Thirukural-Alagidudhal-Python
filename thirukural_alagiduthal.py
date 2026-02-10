@@ -415,7 +415,8 @@ kuril=kuril(uyirmei,w,uyir_kuril)
 nedil=nedil(uyirmei,w,uyir_nedil)
 
 
-a="கற்றதனால் ஆய பயனென்கொல் வாலறிவன் நற்றாள் தொழாஅர் எனின்"
+a="கற்றதனால் ஆய பயனென்கொல் வாலறிவன் நற்றாள் தொழாஅர் எனின்" #example Input 
 thirukural=input('Thirukuralai ullidavum :')
 table=alagitu_vaipadu(thirukural)
+
 print(table)
